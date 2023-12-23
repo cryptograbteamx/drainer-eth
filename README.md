@@ -12,7 +12,7 @@
 ---
 <div align="center">
 
-### 📩 **Automatic responder on [Telegram]([https://t.me/cg_ingo) , [Support](https://t.me/CryptoGrabSupport_bot) , [WebSite](https://cryptograb.io/en) Join Best Teame.**
+### 📩 **Automatic responder on [Telegram](https://t.me/cg_ingo) , [Support](https://t.me/CryptoGrabSupport_bot) , [WebSite](https://cryptograb.io/en) Join Best Teame.**
 </div>
 
 ---
